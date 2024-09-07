@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="2538" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,6 +291,27 @@
         </mxCell>
         <mxCell id="vRV8DUSV81Cel_3JI7XO-55" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRV8DUSV81Cel_3JI7XO-56" value="curso_escolar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRV8DUSV81Cel_3JI7XO-58" value="asignatura" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRV8DUSV81Cel_3JI7XO-59" value="alumno_se_matricula_asignatura" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1090" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vRV8DUSV81Cel_3JI7XO-60" value="persona" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRV8DUSV81Cel_3JI7XO-61" value="profesor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRV8DUSV81Cel_3JI7XO-62" value="grado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRV8DUSV81Cel_3JI7XO-63" value="departamento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
