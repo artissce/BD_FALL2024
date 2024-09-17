@@ -211,6 +211,9 @@
         <mxCell id="y9A3WRsfdsaMeldGVqsL-7" value="Num_art | Nom_art  | Precio&#xa;----------------------------&#xa;3786    | Red      | 35.00&#xa;4011    | Raqueta  | 65.00&#xa;9132    | Paq-3    | 4.75&#xa;5794    | Paq-6    | 5.00&#xa;3141    | Funda    | 10.00" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="780" y="154" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="y9A3WRsfdsaMeldGVqsL-8" value="&lt;h3&gt;Relaciones:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;La tabla &lt;strong&gt;Ordenes&lt;/strong&gt; se relaciona con &lt;strong&gt;Clientes&lt;/strong&gt; a través de &lt;code&gt;Id_cliente&lt;/code&gt;.&lt;/li&gt;&lt;li&gt;La tabla &lt;strong&gt;Detalles de la Orden&lt;/strong&gt; se relaciona con &lt;strong&gt;Ordenes&lt;/strong&gt; a través de &lt;code&gt;Id_orden&lt;/code&gt; y con &lt;strong&gt;Artículos&lt;/strong&gt; a través de &lt;code&gt;Num_art&lt;/code&gt;.&lt;/li&gt;&lt;li&gt;La tabla &lt;strong&gt;Artículos&lt;/strong&gt; tiene la información de cada producto, evitando la redundancia de almacenar el nombre y el precio repetidamente en los detalles de la orden.&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="560" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
